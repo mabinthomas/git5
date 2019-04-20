@@ -1,0 +1,1 @@
+This is file from the Chrome to check remote file creation and cloning
